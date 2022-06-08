@@ -1,6 +1,6 @@
 # Express Email API
 
-First create a `.env.local`, set environment variables in it.
+First create a `.env`, set environment variables in it.
 
 ```.env
 GOOGLE_CLIENT_ID="..."
